@@ -8,6 +8,8 @@ An open-source, unofficial backup utility for the game *Kingdom: Two Crowns*. Th
 
 > **Note:** This tool is not affiliated with Raw Fury, the publisher of *Kingdom: Two Crowns*.
 
+[Download .exe file](https://github.com/tatoline/kingdom-two-crowns-backuper/releases/download/v0.1/kingdom-two-crowns-backuper.exe)
+
 ## Features
 
 - **Automatic Backups:**  
@@ -25,6 +27,7 @@ An open-source, unofficial backup utility for the game *Kingdom: Two Crowns*. Th
   Easily restore a selected backup or delete individual backup files (or an entire day’s backups) using the intuitive graphical interface.
 
 ![](https://github.com/tatoline/kingdom-two-crowns-backuper/blob/main/view.jpg?raw=true)
+
 
 ## Installation & Usage
 
